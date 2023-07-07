@@ -1,9 +1,6 @@
 # Basic-Landing-Page
 A simple website made exclusively for Basic Portfolio.
 
-# About
-A basic home page website which provides details of the user, from where you can know about him.
-
 # Tools Used
 The main framework used in building the landing page website is Html and CSS only.
 
